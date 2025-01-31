@@ -1,4 +1,4 @@
-# drylikov reading list
+# drylikov Reading list.
 
 Here is the list of books that helped me transition from a novice freelancer to a developer and a programmer.
 
